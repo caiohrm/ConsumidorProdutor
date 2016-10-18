@@ -1,0 +1,13 @@
+c:\users\caio\documents\visual studio 2015\Projects\ProdutorConsumidor\ProdutorConsumidor\bin\Debug\ProdutorConsumidor.exe.config
+c:\users\caio\documents\visual studio 2015\Projects\ProdutorConsumidor\ProdutorConsumidor\bin\Debug\ProdutorConsumidor.exe
+c:\users\caio\documents\visual studio 2015\Projects\ProdutorConsumidor\ProdutorConsumidor\bin\Debug\ProdutorConsumidor.pdb
+c:\users\caio\documents\visual studio 2015\Projects\ProdutorConsumidor\ProdutorConsumidor\obj\Debug\ProdutorConsumidor.csprojResolveAssemblyReference.cache
+c:\users\caio\documents\visual studio 2015\Projects\ProdutorConsumidor\ProdutorConsumidor\obj\Debug\ProdutorConsumidor.Properties.Resources.resources
+c:\users\caio\documents\visual studio 2015\Projects\ProdutorConsumidor\ProdutorConsumidor\obj\Debug\ProdutorConsumidor.csproj.GenerateResource.Cache
+c:\users\caio\documents\visual studio 2015\Projects\ProdutorConsumidor\ProdutorConsumidor\obj\Debug\ProdutorConsumidor.exe
+c:\users\caio\documents\visual studio 2015\Projects\ProdutorConsumidor\ProdutorConsumidor\obj\Debug\ProdutorConsumidor.pdb
+C:\Users\Caio\Documents\Visual Studio 2015\Projects\ProdutorConsumidor\ProdutorConsumidor\obj\Debug\ProdutorConsumidor.FrmPainel.resources
+C:\Users\Caio\Documents\Visual Studio 2015\Projects\ProdutorConsumidor\ProdutorConsumidor\obj\Debug\ProdutorConsumidor.UsrControle.resources
+C:\Users\Caio\Documents\Visual Studio 2015\Projects\ProdutorConsumidor\ProdutorConsumidor\obj\Debug\ProdutorConsumidor.Pessoa.resources
+C:\Users\Caio\Documents\Visual Studio 2015\Projects\ProdutorConsumidor\ProdutorConsumidor\obj\Debug\ProdutorConsumidor.FrmTempo.resources
+C:\Users\Caio\Documents\Visual Studio 2015\Projects\ProdutorConsumidor\ProdutorConsumidor\obj\Debug\ProdutorConsumidor.UsrFila.resources
